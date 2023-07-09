@@ -1,0 +1,2 @@
+Bayes classifier EPE derivation (p. 21) -- not clear on how they
+went through these steps.
