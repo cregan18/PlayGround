@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.7.8)  9 JUL 2023 01:54
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.7.8)  9 JUL 2023 14:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -118,32 +118,33 @@ LaTeX Font Info:    ... okay on input line 8.
 {C:/Users/crega/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2] (exercis
 es_ch2.aux) ) 
 Here is how much of TeX's memory you used:
- 1178 strings out of 476331
- 18610 string characters out of 5787766
- 1859660 words of memory out of 5000000
- 21668 multiletter control sequences out of 15000+600000
- 517662 words of font info for 51 fonts, out of 8000000 for 9000
+ 1179 strings out of 476331
+ 18625 string characters out of 5787766
+ 1863660 words of memory out of 5000000
+ 21669 multiletter control sequences out of 15000+600000
+ 517969 words of font info for 52 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 56i,11n,62p,672b,194s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 56i,11n,62p,908b,194s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/crega/AppData/Local/Programs/MiKTeX/fonts/type1/public/a
 msfonts/cm/cmbx12.pfb><C:/Users/crega/AppData/Local/Programs/MiKTeX/fonts/type1
 /public/amsfonts/cm/cmbx9.pfb><C:/Users/crega/AppData/Local/Programs/MiKTeX/fon
 ts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/crega/AppData/Local/Programs/M
-iKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/crega/AppData/Local/P
-rograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Users/crega/AppData
-/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/crega
-/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Use
-rs/crega/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb
-><C:/Users/crega/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/c
-mr17.pfb><C:/Users/crega/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfo
-nts/cm/cmr5.pfb><C:/Users/crega/AppData/Local/Programs/MiKTeX/fonts/type1/publi
-c/amsfonts/cm/cmr7.pfb><C:/Users/crega/AppData/Local/Programs/MiKTeX/fonts/type
-1/public/amsfonts/cm/cmr9.pfb><C:/Users/crega/AppData/Local/Programs/MiKTeX/fon
-ts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/crega/AppData/Local/Programs/M
-iKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on exercises_ch2.pdf (2 pages, 162442 bytes).
+iKTeX/fonts/type1/public/amsfonts/cmextra/cmex7.pfb><C:/Users/crega/AppData/Loc
+al/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/crega/Ap
+pData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Users/
+crega/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C
+:/Users/crega/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr1
+0.pfb><C:/Users/crega/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
+/cm/cmr12.pfb><C:/Users/crega/AppData/Local/Programs/MiKTeX/fonts/type1/public/
+amsfonts/cm/cmr17.pfb><C:/Users/crega/AppData/Local/Programs/MiKTeX/fonts/type1
+/public/amsfonts/cm/cmr5.pfb><C:/Users/crega/AppData/Local/Programs/MiKTeX/font
+s/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/crega/AppData/Local/Programs/MiKT
+eX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/crega/AppData/Local/Progra
+ms/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/crega/AppData/Loc
+al/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
+Output written on exercises_ch2.pdf (2 pages, 179021 bytes).
 PDF statistics:
- 79 PDF objects out of 1000 (max. 8388607)
+ 84 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

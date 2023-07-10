@@ -59,4 +59,14 @@ Thus, the CDF of the first order statistic is $F_{R_{(1)}} = 1 - [1 - F_R(r)]^n 
 
 ISSUE IS NOT BEING ABLE TO SOLVE THIS INTEGRAL. Based on numerical tests in python, this seems to be the right integral to solve, but not sure how to do it.
 
+
+\section{Ex. 2.7}
+
+\subsection{(a)}
+
+For linear regression, we first solve the general case where each of the $N$ observations $\vec{x_i}$ is a $p\times 1$ vector (so $\chi$ is a $N\times p$ matrix and $\vec{y}$ is a $N \times 1$ vector of responses). We know that the linear regression estimate is $\hat{f}(x_0) = \hat{\beta}^T \vec{x_0}$ where $\hat{\beta} = (\chi^T \chi)^{-1} \chi^T \vec{y}$. Thus, $\hat{f}(vec{x_0}) = \vec{y}^T \chi(\chi^T \chi)^{-1} \vec{x_0}$. We can alternatively express this as a summation, and we get $\hat{f}(\vec{x_0}) = \sum_{i=0}^N y_i \cdot \vec{x_i}^T (\chi^T \chi)^{-1} \vec{x_0}$, and we can see that our weights are $l_i(\vec{x_0}; \chi) = \vec{x_i}^T(\chi^T \chi)^{-1} \vec{x_0}$. In the case where we only have one parameter (i.e. $x_i$ is a scalar), this becomes $l_i(x_0; \chi) = \frac{x_i x_0}{\sum_{i=0}^N x_i^2}$ (assuming it's fit without an intercept term).
+
+
+For $k$-nearest neighbor regression, we have $\hat{f}(x_0) = \frac{1}{k} \sum_{x_i \in N_k(x_0)} y_i$, so $l_i(x_0; \chi) = \frac{1}{k}$ if $x_i \in N_k(x_0)$ and zero otherwise.
+
 \end{document}
